@@ -23,7 +23,7 @@ function showNextSlide() {
 
 // Auto-slide the carousel every 250ms plus the transition duration
 function startAutoSlide() {
-  autoSlideTimer = setInterval(showNextSlide, 3500);  // Adjust the interval to 750ms (250ms display time + 500ms transition)
+  autoSlideTimer = setInterval(showNextSlide, 3000);  // Adjust the interval to 750ms (250ms display time + 500ms transition)
 }
 
 // Initialize the carousel and start auto-sliding
