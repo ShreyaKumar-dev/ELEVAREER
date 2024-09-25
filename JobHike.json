@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Data Scientist",
+    "demand": 1
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "demand": 2
+  },
+  {
+    "title": "Cloud Engineer",
+    "demand": 3
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "demand": 4
+  },
+  {
+    "title": "Data Analyst",
+    "demand": 5
+  },
+  {
+    "title": "DevOps Engineer",
+    "demand": 6
+  },
+  {
+    "title": "Full Stack Developer",
+    "demand": 7
+  },
+  {
+    "title": "Blockchain Developer",
+    "demand": 8
+  },
+  {
+    "title": "AI Researcher",
+    "demand": 9
+  },
+  {
+    "title": "Software Engineer (AI/ML)",
+    "demand": 10
+  },
+  {
+    "title": "Robotics Engineer",
+    "demand": 11
+  },
+  {
+    "title": "Systems Architect",
+    "demand": 12
+  },
+  {
+    "title": "Natural Language Processing (NLP) Specialist",
+    "demand": 13
+  },
+  {
+    "title": "Data Engineer",
+    "demand": 14
+  },
+  {
+    "title": "Ethical Hacker/Penetration Tester",
+    "demand": 15
+  },
+  {
+    "title": "UX/UI Designer (Tech Focused)",
+    "demand": 16
+  },
+  {
+    "title": "Environmental Data Scientist",
+    "demand": 17
+  },
+  {
+    "title": "Quantum Machine Learning Engineer",
+    "demand": 18
+  },
+  {
+    "title": "Biotechnologist",
+    "demand": 19
+  },
+  {
+    "title": "Autonomous Vehicle Engineer",
+    "demand": 20
+  },
+  {
+    "title": "Digital Twin Engineer",
+    "demand": 21
+  },
+  {
+    "title": "Augmented Reality (AR) Developer",
+    "demand": 22
+  },
+  {
+    "title": "Mobile Application Developer",
+    "demand": 23
+  },
+  {
+    "title": "Nanotechnology Engineer",
+    "demand": 24
+  },
+  {
+    "title": "Video Game Designer",
+    "demand": 25
+  },
+  {
+    "title": "Ethical AI Developer",
+    "demand": 26
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "demand": 27
+  },
+  {
+    "title": "Social Media Manager",
+    "demand": 28
+  },
+  {
+    "title": "Robotics Process Automation (RPA) Developer",
+    "demand": 29
+  },
+  {
+    "title": "User Experience Researcher",
+    "demand": 30
+  },
+  {
+    "title": "Blockchain Consultant",
+    "demand": 31
+  },
+  {
+    "title": "Augmented Reality (AR) Experience Designer",
+    "demand": 32
+  },
+  {
+    "title": "Cryptocurrency Analyst",
+    "demand": 33
+  },
+  {
+    "title": "Data Privacy Consultant",
+    "demand": 34
+  },
+  {
+    "title": "Virtual Reality (VR) Engineer",
+    "demand": 35
+  },
+  {
+    "title": "IoT Solutions Architect",
+    "demand": 36
+  },
+  {
+    "title": "Quantum Computing Analyst",
+    "demand": 37
+  },
+  {
+    "title": "Cloud Security Specialist",
+    "demand": 38
+  },
+  {
+    "title": "Health Data Analyst",
+    "demand": 39
+  },
+  {
+    "title": "Video Content Creator",
+    "demand": 40
+  },
+  {
+    "title": "Supply Chain Data Analyst",
+    "demand": 41
+  },
+  {
+    "title": "Web Accessibility Specialist",
+    "demand": 42
+  },
+  {
+    "title": "EdTech Specialist",
+    "demand": 43
+  },
+  {
+    "title": "Personalization Engineer",
+    "demand": 44
+  },
+  {
+    "title": "Smart Home Engineer",
+    "demand": 45
+  },
+  {
+    "title": "Content Moderator",
+    "demand": 46
+  },
+  {
+    "title": "Voice User Interface Designer",
+    "demand": 47
+  },
+  {
+    "title": "Mobile Security Specialist",
+    "demand": 48
+  },
+  {
+    "title": "Freelance Data Consultant",
+    "demand": 49
+  },
+  {
+    "title": "eSports Manager",
+    "demand": 50
+  },
+  {
+    "title": "Sustainability Consultant",
+    "demand": 51
+  },
+  {
+    "title": "Human Resources Analyst",
+    "demand": 52
+  },
+  {
+    "title": "UX Researcher",
+    "demand": 53
+  },
+  {
+    "title": "Gaming Software Tester",
+    "demand": 54
+  },
+  {
+    "title": "Sports Data Analyst",
+    "demand": 55
+  },
+  {
+    "title": "Smart City Engineer",
+    "demand": 56
+  },
+  {
+    "title": "Cryptocurrency Developer",
+    "demand": 57
+  },
+  {
+    "title": "Cloud Solutions Architect",
+    "demand": 58
+  },
+  {
+    "title": "Network Automation Engineer",
+    "demand": 59
+  },
+  {
+    "title": "Renewable Energy Consultant",
+    "demand": 60
+  },
+  {
+    "title": "E-commerce Specialist",
+    "demand": 61
+  },
+  {
+    "title": "Health and Safety Manager",
+    "demand": 62
+  },
+  {
+    "title": "AI Ethics Consultant",
+    "demand": 63
+  },
+  {
+    "title": "Customer Experience Specialist",
+    "demand": 64
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "demand": 65
+  },
+  {
+    "title": "AI Product Manager",
+    "demand": 66
+  },
+  {
+    "title": "Augmented Reality Developer",
+    "demand": 67
+  },
+  {
+    "title": "Cloud Data Engineer",
+    "demand": 68
+  },
+  {
+    "title": "Cybersecurity Risk Analyst",
+    "demand": 69
+  },
+  {
+    "title": "Mobile Health Application Developer",
+    "demand": 70
+  },
+  {
+    "title": "Automation Test Engineer",
+    "demand": 71
+  },
+  {
+    "title": "UX/UI Developer",
+    "demand": 72
+  },
+  {
+    "title": "Business Development Executive",
+    "demand": 73
+  },
+  {
+    "title": "Digital Content Creator",
+    "demand": 74
+  },
+  {
+    "title": "Environmental Consultant",
+    "demand": 75
+  },
+  {
+    "title": "Blockchain Consultant",
+    "demand": 76
+  },
+  {
+    "title": "Financial Data Analyst",
+    "demand": 77
+  },
+  {
+    "title": "Data Visualization Specialist",
+    "demand": 78
+  },
+  {
+    "title": "IT Compliance Analyst",
+    "demand": 79
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "demand": 80
+  },
+  {
+    "title": "Robotics Technician",
+    "demand": 81
+  },
+  {
+    "title": "Social Media Manager",
+    "demand": 82
+  },
+  {
+    "title": "Pharmaceutical Sales Representative",
+    "demand": 83
+  },
+  {
+    "title": "Content Marketing Specialist",
+    "demand": 84
+  },
+  {
+    "title": "Telemedicine Coordinator",
+    "demand": 85
+  },
+  {
+    "title": "E-learning Developer",
+    "demand": 86
+  },
+  {
+    "title": "Cybersecurity Consultant",
+    "demand": 87
+  },
+  {
+    "title": "SEO Specialist",
+    "demand": 88
+  },
+  {
+    "title": "Health Data Analyst",
+    "demand": 89
+  },
+  {
+    "title": "Digital Transformation Manager",
+    "demand": 90
+  },
+  {
+    "title": "AI Software Developer",
+    "demand": 91
+  },
+  {
+    "title": "DevOps Consultant",
+    "demand": 92
+  },
+  {
+    "title": "Data Privacy Consultant",
+    "demand": 93
+  },
+  {
+    "title": "Cloud Security Specialist",
+    "demand": 94
+  },
+  {
+    "title": "Mobile Security Engineer",
+    "demand": 95
+  },
+  {
+    "title": "Game Designer",
+    "demand": 96
+  },
+  {
+    "title": "Public Health Advisor",
+    "demand": 97
+  },
+  {
+    "title": "Instructional Designer",
+    "demand": 98
+  },
+  {
+    "title": "Disaster Recovery Specialist",
+    "demand": 99
+  },
+  {
+    "title": "Quantum Computing Engineer",
+    "demand": 100
+  }
+]
