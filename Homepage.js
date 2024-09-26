@@ -1,26 +1,28 @@
-// Function to fetch job trends data (simulating with static data, but in real use, this can be fetched dynamically from an API or web scrape)
+// Function to fetch job trends data (using static data from JobHike.json for now)
 async function fetchJobData() {
     const response = await fetch('JobHike.json');
     const data = await response.json();
     
-    // Sort the data by demand (or any field that indicates ranking), replace 'demand' with your actual field
-    const sortedJobs = data.sort((a, b) => b.demand - a.demand);
+    // Sort the data in descending order of opportunities
+    data.sort((a, b) => b.Opportunity - a.Opportunity);
+
+    // Extract top 15 job titles and opportunities
+    const top15Jobs = data.slice(0, 10);
     
-    // Get the top 15 jobs
-    const top15Jobs = sortedJobs.slice(0, 10);
-
-    // Create arrays for job titles and counts
-    const jobTitles = top15Jobs.map(job => job.title);  // Replace 'title' with the field for job titles
-    const jobCounts = top15Jobs.map(job => job.count);  // Replace 'count' with the field for job demand
-
-    return { jobTitles, jobCounts }; // Return the necessary data
+    // Prepare data in the format the chart requires
+    const chartData = {
+        jobTitles: top15Jobs.map(job => job.Title),
+        jobCounts: top15Jobs.map(job => job.Opportunity)
+    };
+    
+    return chartData;
 }
 
-// Function to update the chart with new data
+// Function to update chart with new data
 function updateChart(chart, data) {
-    chart.data.labels = data.jobTitles; // Update the labels with job titles
-    chart.data.datasets[0].data = data.jobCounts; // Update the dataset with job counts
-    chart.update(); // Update the chart
+    chart.data.labels = data.jobTitles; // Job titles
+    chart.data.datasets[0].data = data.jobCounts; // Job opportunities
+    chart.update();
 }
 
 // Set up the chart
@@ -32,16 +34,12 @@ const jobChart = new Chart(ctx, {
         datasets: [{
             label: 'Trending Jobs',
             data: [], // Initially empty
-            backgroundColor: [
-                '#ff5959', '#ffa85b', '#ffd36f', '#7be495', '#3fa2f7', '#6e83f7', '#8b5cf6',
-                '#f7b84b', '#f76f8b', '#5b8cfc', '#4df7ab', '#9e69f7', '#5cf69b', '#f7df64', '#f69c5b'
-            ],
+            backgroundColor: ['#ff5959', '#ffa85b', '#ffd36f', '#7be495', '#3fa2f7', '#6e83f7', '#8b5cf6',
+                '#f7b84b', '#f76f8b', '#5b8cfc'],
             borderWidth: 1
         }]
     },
     options: {
-        responsive: true, // Make the chart responsive
-        maintainAspectRatio: false, // Disable aspect ratio to make it full width
         scales: {
             y: {
                 beginAtZero: true
@@ -52,12 +50,9 @@ const jobChart = new Chart(ctx, {
 
 // Function to dynamically fetch and load data into the chart
 async function loadChartData() {
-    const jobData = await fetchJobData(); // Fetch the job data
-    updateChart(jobChart, jobData); // Update the chart with the new data
+    const jobData = await fetchJobData(); // Get the job data
+    updateChart(jobChart, jobData); // Update the chart with new data
 }
 
-// Load the initial chart data
+// Load chart data on page load
 loadChartData();
-
-// Simulating a dynamic data fetch every few seconds (optional, but can be adjusted to fit your use case)
-setInterval(loadChartData, 5000); // Automatically fetch and update the chart every 5 seconds

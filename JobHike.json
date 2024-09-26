@@ -1,402 +1,402 @@
 [
   {
-    "title": "Data Scientist",
-    "demand": 1
+    "Title": "Data Scientist",
+    "Opportunity": 20000
   },
   {
-    "title": "Machine Learning Engineer",
-    "demand": 2
+    "Title": "Machine Learning Engineer",
+    "Opportunity": 18000
   },
   {
-    "title": "Cloud Engineer",
-    "demand": 3
+    "Title": "Cloud Engineer",
+    "Opportunity": 16000
   },
   {
-    "title": "Cybersecurity Analyst",
-    "demand": 4
+    "Title": "Cybersecurity Analyst",
+    "Opportunity": 15000
   },
   {
-    "title": "Data Analyst",
-    "demand": 5
+    "Title": "Data Analyst",
+    "Opportunity": 14000
   },
   {
-    "title": "DevOps Engineer",
-    "demand": 6
+    "Title": "DevOps Engineer",
+    "Opportunity": 13000
   },
   {
-    "title": "Full Stack Developer",
-    "demand": 7
+    "Title": "Full Stack Developer",
+    "Opportunity": 12000
   },
   {
-    "title": "Blockchain Developer",
-    "demand": 8
+    "Title": "Blockchain Developer",
+    "Opportunity": 9000
   },
   {
-    "title": "AI Researcher",
-    "demand": 9
+    "Title": "AI Researcher",
+    "Opportunity": 8000
   },
   {
-    "title": "Software Engineer (AI/ML)",
-    "demand": 10
+    "Title": "Software Engineer (AI/ML)",
+    "Opportunity": 19000
   },
   {
-    "title": "Robotics Engineer",
-    "demand": 11
+    "Title": "Robotics Engineer",
+    "Opportunity": 7000
   },
   {
-    "title": "Systems Architect",
-    "demand": 12
+    "Title": "Systems Architect",
+    "Opportunity": 6000
   },
   {
-    "title": "Natural Language Processing (NLP) Specialist",
-    "demand": 13
+    "Title": "Natural Language Processing (NLP) Specialist",
+    "Opportunity": 6500
   },
   {
-    "title": "Data Engineer",
-    "demand": 14
+    "Title": "Data Engineer",
+    "Opportunity": 15000
   },
   {
-    "title": "Ethical Hacker/Penetration Tester",
-    "demand": 15
+    "Title": "Ethical Hacker/Penetration Tester",
+    "Opportunity": 5000
   },
   {
-    "title": "UX/UI Designer (Tech Focused)",
-    "demand": 16
+    "Title": "UX/UI Designer (Tech Focused)",
+    "Opportunity": 4000
   },
   {
-    "title": "Environmental Data Scientist",
-    "demand": 17
+    "Title": "Environmental Data Scientist",
+    "Opportunity": 3000
   },
   {
-    "title": "Quantum Machine Learning Engineer",
-    "demand": 18
+    "Title": "Quantum Machine Learning Engineer",
+    "Opportunity": 2500
   },
   {
-    "title": "Biotechnologist",
-    "demand": 19
+    "Title": "Biotechnologist",
+    "Opportunity": 2000
   },
   {
-    "title": "Autonomous Vehicle Engineer",
-    "demand": 20
+    "Title": "Autonomous Vehicle Engineer",
+    "Opportunity": 1500
   },
   {
-    "title": "Digital Twin Engineer",
-    "demand": 21
+    "Title": "Digital Twin Engineer",
+    "Opportunity": 1800
   },
   {
-    "title": "Augmented Reality (AR) Developer",
-    "demand": 22
+    "Title": "Augmented Reality (AR) Developer",
+    "Opportunity": 1200
   },
   {
-    "title": "Mobile Application Developer",
-    "demand": 23
+    "Title": "Mobile Application Developer",
+    "Opportunity": 1000
   },
   {
-    "title": "Nanotechnology Engineer",
-    "demand": 24
+    "Title": "Nanotechnology Engineer",
+    "Opportunity": 800
   },
   {
-    "title": "Video Game Designer",
-    "demand": 25
+    "Title": "Video Game Designer",
+    "Opportunity": 4000
   },
   {
-    "title": "Ethical AI Developer",
-    "demand": 26
+    "Title": "Ethical AI Developer",
+    "Opportunity": 3000
   },
   {
-    "title": "Digital Marketing Specialist",
-    "demand": 27
+    "Title": "Digital Marketing Specialist",
+    "Opportunity": 7000
   },
   {
-    "title": "Social Media Manager",
-    "demand": 28
+    "Title": "Social Media Manager",
+    "Opportunity": 6000
   },
   {
-    "title": "Robotics Process Automation (RPA) Developer",
-    "demand": 29
+    "Title": "Robotics Process Automation (RPA) Developer",
+    "Opportunity": 2000
   },
   {
-    "title": "User Experience Researcher",
-    "demand": 30
+    "Title": "User Experience Researcher",
+    "Opportunity": 3500
   },
   {
-    "title": "Blockchain Consultant",
-    "demand": 31
+    "Title": "Blockchain Consultant",
+    "Opportunity": 1500
   },
   {
-    "title": "Augmented Reality (AR) Experience Designer",
-    "demand": 32
+    "Title": "Augmented Reality (AR) Experience Designer",
+    "Opportunity": 1800
   },
   {
-    "title": "Cryptocurrency Analyst",
-    "demand": 33
+    "Title": "Cryptocurrency Analyst",
+    "Opportunity": 1300
   },
   {
-    "title": "Data Privacy Consultant",
-    "demand": 34
+    "Title": "Data Privacy Consultant",
+    "Opportunity": 1700
   },
   {
-    "title": "Virtual Reality (VR) Engineer",
-    "demand": 35
+    "Title": "Virtual Reality (VR) Engineer",
+    "Opportunity": 1200
   },
   {
-    "title": "IoT Solutions Architect",
-    "demand": 36
+    "Title": "IoT Solutions Architect",
+    "Opportunity": 800
   },
   {
-    "title": "Quantum Computing Analyst",
-    "demand": 37
+    "Title": "Quantum Computing Analyst",
+    "Opportunity": 600
   },
   {
-    "title": "Cloud Security Specialist",
-    "demand": 38
+    "Title": "Cloud Security Specialist",
+    "Opportunity": 1000
   },
   {
-    "title": "Health Data Analyst",
-    "demand": 39
+    "Title": "Health Data Analyst",
+    "Opportunity": 500
   },
   {
-    "title": "Video Content Creator",
-    "demand": 40
+    "Title": "Video Content Creator",
+    "Opportunity": 700
   },
   {
-    "title": "Supply Chain Data Analyst",
-    "demand": 41
+    "Title": "Supply Chain Data Analyst",
+    "Opportunity": 300
   },
   {
-    "title": "Web Accessibility Specialist",
-    "demand": 42
+    "Title": "Web Accessibility Specialist",
+    "Opportunity": 400
   },
   {
-    "title": "EdTech Specialist",
-    "demand": 43
+    "Title": "EdTech Specialist",
+    "Opportunity": 600
   },
   {
-    "title": "Personalization Engineer",
-    "demand": 44
+    "Title": "Personalization Engineer",
+    "Opportunity": 450
   },
   {
-    "title": "Smart Home Engineer",
-    "demand": 45
+    "Title": "Smart Home Engineer",
+    "Opportunity": 350
   },
   {
-    "title": "Content Moderator",
-    "demand": 46
+    "Title": "Content Moderator",
+    "Opportunity": 550
   },
   {
-    "title": "Voice User Interface Designer",
-    "demand": 47
+    "Title": "Voice User Interface Designer",
+    "Opportunity": 300
   },
   {
-    "title": "Mobile Security Specialist",
-    "demand": 48
+    "Title": "Mobile Security Specialist",
+    "Opportunity": 200
   },
   {
-    "title": "Freelance Data Consultant",
-    "demand": 49
+    "Title": "Freelance Data Consultant",
+    "Opportunity": 500
   },
   {
-    "title": "eSports Manager",
-    "demand": 50
+    "Title": "eSports Manager",
+    "Opportunity": 400
   },
   {
-    "title": "Sustainability Consultant",
-    "demand": 51
+    "Title": "Sustainability Consultant",
+    "Opportunity": 300
   },
   {
-    "title": "Human Resources Analyst",
-    "demand": 52
+    "Title": "Human Resources Analyst",
+    "Opportunity": 1200
   },
   {
-    "title": "UX Researcher",
-    "demand": 53
+    "Title": "UX Researcher",
+    "Opportunity": 800
   },
   {
-    "title": "Gaming Software Tester",
-    "demand": 54
+    "Title": "Gaming Software Tester",
+    "Opportunity": 600
   },
   {
-    "title": "Sports Data Analyst",
-    "demand": 55
+    "Title": "Sports Data Analyst",
+    "Opportunity": 500
   },
   {
-    "title": "Smart City Engineer",
-    "demand": 56
+    "Title": "Smart City Engineer",
+    "Opportunity": 200
   },
   {
-    "title": "Cryptocurrency Developer",
-    "demand": 57
+    "Title": "Cryptocurrency Developer",
+    "Opportunity": 300
   },
   {
-    "title": "Cloud Solutions Architect",
-    "demand": 58
+    "Title": "Cloud Solutions Architect",
+    "Opportunity": 700
   },
   {
-    "title": "Network Automation Engineer",
-    "demand": 59
+    "Title": "Network Automation Engineer",
+    "Opportunity": 400
   },
   {
-    "title": "Renewable Energy Consultant",
-    "demand": 60
+    "Title": "Renewable Energy Consultant",
+    "Opportunity": 250
   },
   {
-    "title": "E-commerce Specialist",
-    "demand": 61
+    "Title": "E-commerce Specialist",
+    "Opportunity": 800
   },
   {
-    "title": "Health and Safety Manager",
-    "demand": 62
+    "Title": "Health and Safety Manager",
+    "Opportunity": 300
   },
   {
-    "title": "AI Ethics Consultant",
-    "demand": 63
+    "Title": "AI Ethics Consultant",
+    "Opportunity": 150
   },
   {
-    "title": "Customer Experience Specialist",
-    "demand": 64
+    "Title": "Customer Experience Specialist",
+    "Opportunity": 400
   },
   {
-    "title": "Business Intelligence Analyst",
-    "demand": 65
+    "Title": "Business Intelligence Analyst",
+    "Opportunity": 500
   },
   {
-    "title": "AI Product Manager",
-    "demand": 66
+    "Title": "AI Product Manager",
+    "Opportunity": 200
   },
   {
-    "title": "Augmented Reality Developer",
-    "demand": 67
+    "Title": "Augmented Reality Developer",
+    "Opportunity": 300
   },
   {
-    "title": "Cloud Data Engineer",
-    "demand": 68
+    "Title": "Cloud Data Engineer",
+    "Opportunity": 450
   },
   {
-    "title": "Cybersecurity Risk Analyst",
-    "demand": 69
+    "Title": "Cybersecurity Risk Analyst",
+    "Opportunity": 250
   },
   {
-    "title": "Mobile Health Application Developer",
-    "demand": 70
+    "Title": "Mobile Health Application Developer",
+    "Opportunity": 200
   },
   {
-    "title": "Automation Test Engineer",
-    "demand": 71
+    "Title": "Automation Test Engineer",
+    "Opportunity": 500
   },
   {
-    "title": "UX/UI Developer",
-    "demand": 72
+    "Title": "UX/UI Developer",
+    "Opportunity": 600
   },
   {
-    "title": "Business Development Executive",
-    "demand": 73
+    "Title": "Business Development Executive",
+    "Opportunity": 300
   },
   {
-    "title": "Digital Content Creator",
-    "demand": 74
+    "Title": "Digital Content Creator",
+    "Opportunity": 400
   },
   {
-    "title": "Environmental Consultant",
-    "demand": 75
+    "Title": "Environmental Consultant",
+    "Opportunity": 300
   },
   {
-    "title": "Blockchain Consultant",
-    "demand": 76
+    "Title": "Blockchain Consultant",
+    "Opportunity": 300
   },
   {
-    "title": "Financial Data Analyst",
-    "demand": 77
+    "Title": "Financial Data Analyst",
+    "Opportunity": 500
   },
   {
-    "title": "Data Visualization Specialist",
-    "demand": 78
+    "Title": "Data Visualization Specialist",
+    "Opportunity": 400
   },
   {
-    "title": "IT Compliance Analyst",
-    "demand": 79
+    "Title": "IT Compliance Analyst",
+    "Opportunity": 350
   },
   {
-    "title": "Digital Marketing Specialist",
-    "demand": 80
+    "Title": "Digital Marketing Specialist",
+    "Opportunity": 600
   },
   {
-    "title": "Robotics Technician",
-    "demand": 81
+    "Title": "Robotics Technician",
+    "Opportunity": 200
   },
   {
-    "title": "Social Media Manager",
-    "demand": 82
+    "Title": "Social Media Manager",
+    "Opportunity": 450
   },
   {
-    "title": "Pharmaceutical Sales Representative",
-    "demand": 83
+    "Title": "Pharmaceutical Sales Representative",
+    "Opportunity": 300
   },
   {
-    "title": "Content Marketing Specialist",
-    "demand": 84
+    "Title": "Content Marketing Specialist",
+    "Opportunity": 400
   },
   {
-    "title": "Telemedicine Coordinator",
-    "demand": 85
+    "Title": "Telemedicine Coordinator",
+    "Opportunity": 250
   },
   {
-    "title": "E-learning Developer",
-    "demand": 86
+    "Title": "E-learning Developer",
+    "Opportunity": 300
   },
   {
-    "title": "Cybersecurity Consultant",
-    "demand": 87
+    "Title": "Cybersecurity Consultant",
+    "Opportunity": 200
   },
   {
-    "title": "SEO Specialist",
-    "demand": 88
+    "Title": "SEO Specialist",
+    "Opportunity": 450
   },
   {
-    "title": "Health Data Analyst",
-    "demand": 89
+    "Title": "Health Data Analyst",
+    "Opportunity": 500
   },
   {
-    "title": "Digital Transformation Manager",
-    "demand": 90
+    "Title": "Digital Transformation Manager",
+    "Opportunity": 250
   },
   {
-    "title": "AI Software Developer",
-    "demand": 91
+    "Title": "AI Software Developer",
+    "Opportunity": 600
   },
   {
-    "title": "DevOps Consultant",
-    "demand": 92
+    "Title": "DevOps Consultant",
+    "Opportunity": 400
   },
   {
-    "title": "Data Privacy Consultant",
-    "demand": 93
+    "Title": "Data Privacy Consultant",
+    "Opportunity": 300
   },
   {
-    "title": "Cloud Security Specialist",
-    "demand": 94
+    "Title": "Cloud Security Specialist",
+    "Opportunity": 200
   },
   {
-    "title": "Mobile Security Engineer",
-    "demand": 95
+    "Title": "Mobile Security Engineer",
+    "Opportunity": 250
   },
   {
-    "title": "Game Designer",
-    "demand": 96
+    "Title": "Game Designer",
+    "Opportunity": 400
   },
   {
-    "title": "Public Health Advisor",
-    "demand": 97
+    "Title": "Public Health Advisor",
+    "Opportunity": 350
   },
   {
-    "title": "Instructional Designer",
-    "demand": 98
+    "Title": "Instructional Designer",
+    "Opportunity": 300
   },
   {
-    "title": "Disaster Recovery Specialist",
-    "demand": 99
+    "Title": "Disaster Recovery Specialist",
+    "Opportunity": 250
   },
   {
-    "title": "Quantum Computing Engineer",
-    "demand": 100
+    "Title": "Quantum Computing Engineer",
+    "Opportunity": 200
   }
 ]

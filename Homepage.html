@@ -9,7 +9,7 @@
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top border-bottom bg-white py-3">
+    <nav class="navbar navbar-expand-md navbar-light bg-light py-2 border-bottom">
         <div class="container">
             <a class="navbar-brand text-dark" href="./LandingPage.html">ELEVAREER</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,7 +18,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <a class="nav-link text-dark space active" aria-current="page" href="#Hero">Home</a>
+                        <a class="nav-link text-dark space" href="#Hero">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-dark space" href="#AboutUs">About</a>
@@ -30,26 +30,117 @@
                         <a class="nav-link text-dark space" href="mailto:support@elevareer.com">Contact</a>
                     </li>
                 </ul>
-                <form class="d-flex" role="search">
-                    <button class="btn me-2 px-4 py-2 outline rounded" type="submit">Sign Up</button>
-                    <button class="btn px-4 py-2 outline rounded" type="submit">Sign In</button>
-                </form>
+                <!-- User Profile Section -->
+                <div class="d-flex align-items-center gap-3">
+                    <span class="text-dark user-name">John Doe</span>
+                    <img src="./asset/profile_pic.png" alt="User Profile" class="rounded-circle profile-img">
+                </div>
             </div>
         </div>
     </nav>
 
-    <div class="container main-content">
-        <h2 class="title">Hottest Job in the market <span>🤑</span></h2>
-        <div class="chart-container">
+    <!-- chart container -->
+    <div class="container mb-5 main-content">
+        <h1 class="mb-4 title">Hottest Job in the market <span>🤑</span></h1>
+        <div class="container chart-container">
             <canvas id="jobChart"></canvas>
         </div>
+    </div>
 
-        <h3 class="subtitle">Current Job Postings</h3>
-        <div class="job-listings">
-            <div class="job-card">Senior Web Developer <br><span>Microsoft | Delhi</span></div>
-            <div class="job-card">Senior Web Developer <br><span>Microsoft | Delhi</span></div>
-            <div class="job-card">Senior Web Developer <br><span>Microsoft | Delhi</span></div>
-            <div class="job-card">Senior Web Developer <br><span>Microsoft | Delhi</span></div>
+    <!-- Job Post Section -->
+    <div class="job-post">
+    <h1 class="container text-center my-5 title">Current Job Postings</h1>
+    <div class="container mt-3 mb-5 pb-5 job-listings">
+        <div class="job-card">
+            <div class="py-3 px-2 gap-3">
+                <p class="text-dark job-head">Senior Web Developer</p>
+                <p class="text-secondary job-company">Microsoft</p>
+                <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location"><img src="./asset/location.png" alt="location" height="20px" class="me-2">Delhi</p>
+                <p class="text-uppercase apply-job">apply</p>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="py-3 px-2 gap-3">
+                <p class="text-dark job-head">Senior Web Developer</p>
+                <p class="text-secondary job-company">Microsoft</p>
+                <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location"><img src="./asset/location.png" alt="location" height="20px" class="me-2">Delhi</p>
+                <p class="text-uppercase apply-job">apply</p>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="py-3 px-2 gap-3">
+                <p class="text-dark job-head">Senior Web Developer</p>
+                <p class="text-secondary job-company">Microsoft</p>
+                <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location"><img src="./asset/location.png" alt="location" height="20px" class="me-2">Delhi</p>
+                <p class="text-uppercase apply-job">apply</p>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="py-3 px-2 gap-3">
+                <p class="text-dark job-head">Senior Web Developer</p>
+                <p class="text-secondary job-company">Microsoft</p>
+                <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location"><img src="./asset/location.png" alt="location" height="20px" class="me-2">Delhi</p>
+                <p class="text-uppercase apply-job">apply</p>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="py-3 px-2 gap-3">
+                <p class="text-dark job-head">Senior Web Developer</p>
+                <p class="text-secondary job-company">Microsoft</p>
+                <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location"><img src="./asset/location.png" alt="location" height="20px" class="me-2">Delhi</p>
+                <p class="text-uppercase apply-job">apply</p>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="foot">
+        <div class="container">
+            <footer class="py-5">
+                <h4 class="mb-3 space">Ready to elevate your career?</h4>
+                <p class="col-lg-6">With personalized job recommendations and career insights, you can easily find your path to success. Start building your future today.</p>
+                <div class="row border-top mt-5 pt-5 g-3">
+                    <div class="col-md-5">
+                        <h2 class="mb-4 space">ELEVAREER</h2>
+                        <p class="mb-4">With personalized career tools, you can easily discover trending 
+                                jobs and growth opportunities. Find the right path for your future.</p>
+                        <div class="d-flex flex-column flex-sm-row w-100 gap-3">
+                            <ul class="list-unstyled d-flex mt-3">
+                                <li><a class="link-body-emphasis" href="#"><img src="./asset/Icons/twitter.png" alt="twitter" height="20px"></a></li>
+                                <li class="ms-3"><a class="link-body-emphasis" href="#"><img src="./asset/Icons/facebook.png" alt="facebook" height="20px"></a></li>
+                                <li class="ms-3"><a class="link-body-emphasis" href="#"><img src="./asset/Icons/instagram.png" alt="instagram" height="20px"></a></li>
+                                <li class="ms-3"><a class="link-body-emphasis" href="#"><img src="./asset/Icons/linkedin-logo.png" alt="linkedin" height="20px"></a></li>
+                            </ul>
+                        </div>
+                        <p>© 2024 ELEVAREER, Inc. All rights reserved.</p>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3 offset-md-1">
+                        <h5 class="text-capitalize mb-3">quick links</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Home</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">About Us</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Benefits</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Trending Jobs</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <h5 class="mb-3">Legal</h5>
+                        <ul class="nav flex-column text-capitalize">
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">privacy policy</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">terms & conditions</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0">return policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <h5 class="text-capitalize mb-3">contact us</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="mailto:support@elevareer.com" class="nav-link p-0">support@elevareer.com</a></li>
+                            <li class="nav-item mb-2"><a href="tel:+123-456-7890" class="nav-link p-0">+123-456-7890</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
         </div>
     </div>
 
