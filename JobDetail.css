@@ -13,7 +13,7 @@ body {
     width: 100%;
     font-family: "Raleway", sans-serif;
     overflow-x: hidden; /* Prevent horizontal overflow */
-    background-color: #f5f7ff;
+    background: #ffffff;
 }
 
 .nav-item {
@@ -30,7 +30,6 @@ body {
     width: 33px;
     height: 33px;
     object-fit: cover;
-    /* border: 2px solid #004D40; */
 }
 
 /* Username styling */
@@ -46,6 +45,98 @@ body {
     z-index: 1000; /* Ensure navbar stays above content */
 }
 
-.job-detail{
-    margin-top: 50px;
+.job-detail {
+    margin-top: 100px;
+}
+
+.job-detail-mainbox {
+    background-color: #f5f7ff;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+}
+
+.chart-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.d .data {
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 3px;
+    color: #000360;
+}
+
+.d p {
+    margin: 0;
+    font-size: 14px;
+    color: #787878;
+}
+
+.job-detail-txt ul li {
+    list-style-type: none;
+}
+
+.job-detail-txt li {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .job-detail-mainbox {
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+
+    .job-detail-txt h4, p {
+        text-align: center;
+    }
+
+    .job-detail-txt ul li {
+        list-style-type: none;
+        text-align: center;
+    }
+
+    .job-detail-txt li {
+        margin-bottom: 10px;
+        background: #ffffff;
+        padding: 10px 0;
+        border-radius: 50px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+}
+
+/* Optional: Add transitions for smoother updates */
+#job-title,
+#job-description,
+#job-skills li,
+#india-job-opportunities,
+#india-growth,
+#india-annual-salary,
+#india-state,
+#foreign-job-opportunities,
+#foreign-growth,
+#foreign-annual-salary,
+#foreign-state {
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    opacity: 0;
+    transform: translateY(10px);
+}
+
+#job-title.visible,
+#job-description.visible,
+#job-skills li.visible,
+#india-job-opportunities.visible,
+#india-growth.visible,
+#india-annual-salary.visible,
+#india-state.visible,
+#foreign-job-opportunities.visible,
+#foreign-growth.visible,
+#foreign-annual-salary.visible,
+#foreign-state.visible {
+    opacity: 1;
+    transform: translateY(0);
 }

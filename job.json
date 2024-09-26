@@ -1,0 +1,4557 @@
+[
+    {
+        "role": "Aeronautical Engineer",
+        "description": "Design and develop aircraft, satellites, and spacecraft",
+        "skills": [
+            "Knowledge of aerodynamics",
+            "propulsion",
+            "avionics",
+            "problem-solving",
+            "CAD software",
+            "teamwork",
+            "communication skills"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "High",
+                "annual_salary": "8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 30000,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Aerospace Engineer",
+        "description": "Design, test, and improve spacecraft, missiles, and aircraft",
+        "skills": [
+            "Advanced mathematics",
+            "fluid dynamics",
+            "materials science",
+            "CAD software",
+            "technical problem-solving",
+            "project management",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 25000,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "AI Consultant",
+        "description": "Provide AI solutions to companies based on business needs",
+        "skills": [
+            "Machine learning",
+            "deep learning",
+            "programming (Python",
+            "R)",
+            "data analysis",
+            "consulting experience",
+            "business intelligence"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 22000,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "AI Developer",
+        "description": "Build and implement AI models and algorithms",
+        "skills": [
+            "Machine learning",
+            "deep learning",
+            "natural language processing",
+            "programming (Python",
+            "TensorFlow",
+            "PyTorch)",
+            "data engineering",
+            "model optimization"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 21000,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "AI Engineer",
+        "description": "Develop AI models, applications, and solutions",
+        "skills": [
+            "Machine learning algorithms",
+            "deep learning",
+            "neural networks",
+            "programming (Python",
+            "R)",
+            "cloud computing",
+            "data engineering",
+            "AI ethics"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 18000,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "AI Researcher",
+        "description": "Conduct research on AI technologies and contribute to advancing the field",
+        "skills": [
+            "Strong theoretical understanding of AI",
+            "machine learning algorithms",
+            "deep learning",
+            "research experience",
+            "publications",
+            "programming",
+            "data analysis"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 16000,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Artificial Intelligence Engineer",
+        "description": "Design, develop, and implement AI-based applications and systems",
+        "skills": [
+            "Machine learning",
+            "deep learning",
+            "programming (Python",
+            "R)",
+            "data science",
+            "cloud computing",
+            "model optimization",
+            "AI system architecture"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 15000,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Astrophysicist",
+        "description": "Study celestial objects, space, and the physical universe",
+        "skills": [
+            "Physics",
+            "mathematics",
+            "data analysis",
+            "research methods",
+            "computational modeling",
+            "coding (Python",
+            "MATLAB)",
+            "observation and experimentation skills"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 200,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 14000,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Automation Engineer",
+        "description": "Design, program, and implement automated systems for manufacturing and other industries",
+        "skills": [
+            "Robotics",
+            "PLC programming",
+            "SCADA",
+            "machine learning",
+            "industrial systems",
+            "problem-solving",
+            "coding (C/C++",
+            "Python)",
+            "teamwork",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 13000,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Biochemist",
+        "description": "Study chemical processes within living organisms for medical or agricultural advancements",
+        "skills": [
+            "Molecular biology",
+            "chemical analysis",
+            "lab research",
+            "data interpretation",
+            "knowledge of biological systems",
+            "teamwork",
+            "communication skills"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 28000,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Biomedical Engineer",
+        "description": "Develop devices and technology to solve medical and healthcare problems",
+        "skills": [
+            "Medical device design",
+            "physiology",
+            "electrical engineering",
+            "problem-solving",
+            "communication",
+            "teamwork",
+            "regulatory knowledge"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 10000,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Biomedical Technician",
+        "description": "Maintain, repair, and install medical equipment in healthcare facilities",
+        "skills": [
+            "Medical equipment",
+            "technical troubleshooting",
+            "electronics",
+            "mechanical systems",
+            "analytical skills",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 13000,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Biotechnologist",
+        "description": "Use biological organisms to develop products for healthcare, agriculture, and industry",
+        "skills": [
+            "Molecular biology",
+            "microbiology",
+            "bioprocess engineering",
+            "lab techniques",
+            "data analysis",
+            "problem-solving",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 8000,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Brand Manager",
+        "description": "Develop and implement marketing strategies to enhance the visibility and value of a brand",
+        "skills": [
+            "Marketing strategy",
+            "digital marketing",
+            "consumer behavior",
+            "brand positioning",
+            "communication",
+            "leadership",
+            "analytics",
+            "creative thinking"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 20000,
+                "growth": "2% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Business Analyst",
+        "description": "Analyze business processes, identify inefficiencies, and suggest improvements to optimize operations",
+        "skills": [
+            "Data analysis",
+            "process mapping",
+            "SQL",
+            "Excel",
+            "communication",
+            "problem-solving",
+            "project management",
+            "stakeholder management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 9000,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Business Consultant",
+        "description": "Provide expert advice to businesses to improve performance, efficiency, and profitability",
+        "skills": [
+            "Industry knowledge",
+            "problem-solving",
+            "strategic planning",
+            "communication",
+            "stakeholder management",
+            "change management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 6000,
+                "growth": "3% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Business Development Manager",
+        "description": "Identify and develop new business opportunities to drive company growth",
+        "skills": [
+            "Sales",
+            "marketing strategy",
+            "negotiation",
+            "market research",
+            "relationship management",
+            "leadership",
+            "CRM software"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 5000,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Business Intelligence Analyst",
+        "description": "Analyze data to provide actionable business insights and support decision-making processes",
+        "skills": [
+            "SQL",
+            "Power BI",
+            "Tableau",
+            "Excel",
+            "data visualization",
+            "statistical analysis",
+            "communication skills",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 7000,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "CAD Technician",
+        "description": "Use computer-aided design software to create technical drawings for engineering and construction",
+        "skills": [
+            "AutoCAD",
+            "3D modeling software",
+            "technical drawing",
+            "attention to detail",
+            "problem-solving",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 3000,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Chemical Analyst",
+        "description": "Analyze chemical compounds and substances to ensure safety, quality, and compliance in industries",
+        "skills": [
+            "Lab techniques",
+            "chemical testing",
+            "analytical instrumentation",
+            "data analysis",
+            "attention to detail",
+            "problem-solving",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 2000,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Chemical Engineer",
+        "description": "Design, develop, and optimize processes for large-scale production of chemicals and related products",
+        "skills": [
+            "Process engineering",
+            "chemical safety",
+            "fluid dynamics",
+            "thermodynamics",
+            "project management",
+            "teamwork",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 2500,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Chemical Technician",
+        "description": "Assist in the development and testing of chemical products and processes",
+        "skills": [
+            "Lab techniques",
+            "chemical handling",
+            "instrumentation",
+            "data recording",
+            "safety compliance",
+            "attention to detail",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 1500,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Circuit Design Engineer",
+        "description": "Design and develop electrical circuits for electronic devices and systems",
+        "skills": [
+            "Circuit design",
+            "PCB layout",
+            "VLSI",
+            "CAD software",
+            "electrical testing",
+            "debugging",
+            "analytical skills",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 800,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Civil Engineer",
+        "description": "Plan, design, and oversee construction and maintenance of infrastructure projects",
+        "skills": [
+            "Structural engineering",
+            "project management",
+            "AutoCAD",
+            "civil engineering software (STAAD Pro",
+            "Revit)",
+            "problem-solving",
+            "communication",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 1000,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Clinical Data Analyst",
+        "description": "Analyze and interpret clinical trial data to ensure accuracy and compliance with regulations",
+        "skills": [
+            "Data analysis",
+            "clinical trial software (e.g.",
+            "SAS",
+            "SPSS)",
+            "attention to detail",
+            "medical terminology",
+            "statistical methods",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 2000,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Clinical Data Manager",
+        "description": "Manage clinical trial data from collection through analysis, ensuring compliance with regulations",
+        "skills": [
+            "Clinical data management systems (CDMS)",
+            "database management",
+            "clinical trial regulations",
+            "attention to detail",
+            "project management",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 1500,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Clinical Operations Manager",
+        "description": "Oversee clinical trials, ensuring that operations comply with regulations and timelines",
+        "skills": [
+            "Clinical trial management",
+            "regulatory compliance",
+            "project management",
+            "team leadership",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 1200,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Clinical Research Associate",
+        "description": "Monitor clinical trials, ensuring compliance with protocols, regulations, and safety standards",
+        "skills": [
+            "Clinical trial regulations",
+            "monitoring",
+            "data collection",
+            "report writing",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 1800,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Clinical Research Coordinator",
+        "description": "Coordinate clinical trial logistics, including scheduling, recruitment, and compliance",
+        "skills": [
+            "Clinical trial management",
+            "patient recruitment",
+            "regulatory compliance",
+            "communication",
+            "organizational skills"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 1500,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Clinical Research Scientist",
+        "description": "Conduct and manage clinical trials to develop new medical treatments or drugs",
+        "skills": [
+            "Clinical research",
+            "data analysis",
+            "protocol design",
+            "regulatory compliance",
+            "scientific writing",
+            "critical thinking"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 900,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Clinical Researcher",
+        "description": "Conduct research to advance medical knowledge and clinical practices",
+        "skills": [
+            "Research design",
+            "data analysis",
+            "clinical trial regulations",
+            "attention to detail",
+            "scientific writing",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 1200,
+                "growth": "5% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Clinical Trial Manager",
+        "description": "Lead the planning and execution of clinical trials",
+        "skills": [
+            "Clinical trial management",
+            "regulatory compliance",
+            "project management",
+            "leadership",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 800,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Clinical Trials Coordinator",
+        "description": "Manage the daily operations of clinical trials, ensuring compliance and protocol adherence",
+        "skills": [
+            "Clinical trial regulations",
+            "patient recruitment",
+            "protocol management",
+            "organizational skills",
+            "attention to detail",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 2000,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Cloud Engineer",
+        "description": "Design, implement, and maintain cloud infrastructure and services",
+        "skills": [
+            "Cloud platforms (AWS",
+            "Azure",
+            "GCP)",
+            "infrastructure as code",
+            "DevOps",
+            "networking",
+            "security",
+            "automation",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?15,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 900,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Cloud Infrastructure Engineer",
+        "description": "Build and maintain cloud infrastructure, ensuring scalability, security, and reliability",
+        "skills": [
+            "Cloud infrastructure",
+            "networking",
+            "virtualization",
+            "automation",
+            "DevOps",
+            "security",
+            "containerization (Docker",
+            "Kubernetes)",
+            "troubleshooting"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 1000,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Cloud Solutions Architect",
+        "description": "Design and implement cloud solutions based on business requirements",
+        "skills": [
+            "Cloud architecture",
+            "system design",
+            "infrastructure as code",
+            "cloud platforms (AWS",
+            "Azure",
+            "GCP)",
+            "DevOps",
+            "security",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 1100,
+                "growth": "5% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Communication Engineer",
+        "description": "Design, develop, and maintain communication systems such as telecommunication networks",
+        "skills": [
+            "Networking",
+            "signal processing",
+            "wireless communication",
+            "telecommunications protocols",
+            "problem-solving",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 700,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Compliance Manager",
+        "description": "Ensure that company operations adhere to legal and regulatory requirements",
+        "skills": [
+            "Regulatory knowledge",
+            "risk management",
+            "communication",
+            "problem-solving",
+            "attention to detail",
+            "leadership",
+            "ethics"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 600,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Conservation Scientist",
+        "description": "Manage natural resources to protect and sustain ecosystems",
+        "skills": [
+            "Environmental regulations",
+            "ecosystem management",
+            "research methods",
+            "data analysis",
+            "fieldwork",
+            "critical thinking",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 800,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Construction Manager",
+        "description": "Oversee construction projects from planning to completion, ensuring safety, budget, and timeline",
+        "skills": [
+            "Project management",
+            "construction regulations",
+            "budgeting",
+            "leadership",
+            "scheduling",
+            "safety standards",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 500,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Cybersecurity Analyst",
+        "description": "Monitor, detect, and respond to security threats to protect systems and networks",
+        "skills": [
+            "Network security",
+            "ethical hacking",
+            "SIEM tools",
+            "firewalls",
+            "threat detection",
+            "incident response",
+            "security compliance"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Cybersecurity Consultant",
+        "description": "Provide expert advice and strategies to secure systems, data, and networks from cyber threats",
+        "skills": [
+            "Cybersecurity frameworks",
+            "risk assessment",
+            "ethical hacking",
+            "security audits",
+            "regulatory compliance",
+            "cloud security",
+            "client communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 550,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?14,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Cybersecurity Engineer",
+        "description": "Design and implement security measures to safeguard data and infrastructure",
+        "skills": [
+            "Network security",
+            "encryption",
+            "firewalls",
+            "security protocols",
+            "intrusion detection",
+            "incident response",
+            "coding (Python",
+            "Bash)",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 500,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Cybersecurity Specialist",
+        "description": "Focus on specific security aspects, including threat detection, response, and system hardening",
+        "skills": [
+            "Threat hunting",
+            "malware analysis",
+            "vulnerability assessment",
+            "penetration testing",
+            "security policies",
+            "encryption techniques"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Data Analyst",
+        "description": "Collect, analyze, and interpret data to provide business insights and support decision-making",
+        "skills": [
+            "Data cleaning",
+            "SQL",
+            "Excel",
+            "data visualization tools (Tableau",
+            "Power BI)",
+            "statistical analysis",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Data Scientist",
+        "description": "Use statistical techniques and algorithms to extract meaningful insights from large datasets",
+        "skills": [
+            "Machine learning",
+            "deep learning",
+            "Python",
+            "R",
+            "SQL",
+            "data mining",
+            "predictive modeling",
+            "data visualization",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Database Administrator",
+        "description": "Manage and maintain databases, ensuring their security, performance, and availability",
+        "skills": [
+            "SQL",
+            "database management systems (Oracle",
+            "MySQL",
+            "PostgreSQL)",
+            "backup",
+            "performance tuning",
+            "security",
+            "troubleshooting",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "DevOps Engineer",
+        "description": "Collaborate with development and operations teams to automate processes and ensure smooth deployment",
+        "skills": [
+            "CI/CD pipelines",
+            "automation",
+            "scripting (Python",
+            "Bash)",
+            "cloud platforms (AWS",
+            "Azure)",
+            "containerization (Docker",
+            "Kubernetes)",
+            "monitoring",
+            "version control"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Electrical Project Manager",
+        "description": "Plan and oversee electrical projects from design to implementation, ensuring adherence to budgets and timelines",
+        "skills": [
+            "Project management",
+            "electrical systems",
+            "budgeting",
+            "scheduling",
+            "leadership",
+            "safety standards",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Electronics Engineer",
+        "description": "Design, develop, and test electronic systems, components, and devices",
+        "skills": [
+            "Circuit design",
+            "VLSI",
+            "microcontrollers",
+            "PCB design",
+            "signal processing",
+            "CAD tools",
+            "problem-solving",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Embedded Systems Engineer",
+        "description": "Design and develop embedded systems for various applications in electronics and hardware products",
+        "skills": [
+            "Embedded C",
+            "RTOS",
+            "microcontroller programming",
+            "hardware-software integration",
+            "debugging",
+            "PCB design",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Engineering Technician",
+        "description": "Assist engineers in the development, testing, and implementation of technical projects",
+        "skills": [
+            "Technical drawing",
+            "CAD software",
+            "equipment operation",
+            "troubleshooting",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 600,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Environmental Consultant",
+        "description": "Provide expert advice to businesses and governments on environmental regulations and sustainable practices",
+        "skills": [
+            "Environmental regulations",
+            "project management",
+            "risk assessment",
+            "report writing",
+            "communication",
+            "fieldwork",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 500,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Environmental Engineer",
+        "description": "Design and develop solutions to environmental challenges such as pollution control and waste management",
+        "skills": [
+            "Environmental laws",
+            "wastewater treatment",
+            "sustainability",
+            "data analysis",
+            "project management",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Environmental Policy Analyst",
+        "description": "Analyze and develop policies to address environmental issues and ensure sustainability",
+        "skills": [
+            "Environmental laws",
+            "policy analysis",
+            "sustainability",
+            "research",
+            "report writing",
+            "data analysis",
+            "communication",
+            "critical thinking"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Environmental Scientist",
+        "description": "Conduct research to protect the environment and improve human health",
+        "skills": [
+            "Environmental regulations",
+            "data analysis",
+            "fieldwork",
+            "scientific writing",
+            "sustainability",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Ethical Hacker",
+        "description": "Identify vulnerabilities in systems and networks by performing penetration testing",
+        "skills": [
+            "Penetration testing",
+            "vulnerability assessment",
+            "ethical hacking tools (Nmap",
+            "Metasploit)",
+            "encryption",
+            "scripting (Python)",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "5% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Financial Analyst",
+        "description": "Analyze financial data to assist businesses in making informed financial decisions",
+        "skills": [
+            "Financial modeling",
+            "Excel",
+            "financial analysis",
+            "data analysis",
+            "accounting",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 550,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Forensic Scientist",
+        "description": "Analyze evidence from crime scenes and provide scientific support to law enforcement",
+        "skills": [
+            "Analytical chemistry",
+            "forensic techniques",
+            "data analysis",
+            "attention to detail",
+            "lab work",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "2% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Full Stack Developer",
+        "description": "Develop both client and server-side software, managing front-end and back-end functionality",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "backend languages (Node.js",
+            "Python",
+            "Java)",
+            "databases (SQL",
+            "MongoDB)",
+            "version control (Git)",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 700,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Genetic Counselor",
+        "description": "Provide advice to individuals and families about genetic conditions and inheritance",
+        "skills": [
+            "Genetics",
+            "counseling",
+            "communication",
+            "empathy",
+            "risk assessment",
+            "medical knowledge",
+            "ethical decision-making"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 500,
+                "growth": "3% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Geotechnical Engineer",
+        "description": "Analyze soil and rock to assess risks and determine the stability of foundations for construction",
+        "skills": [
+            "Soil mechanics",
+            "geotechnical analysis",
+            "CAD software",
+            "fieldwork",
+            "problem-solving",
+            "communication",
+            "risk assessment"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Graphic Designer",
+        "description": "Create visual content for print, digital media, and branding",
+        "skills": [
+            "Adobe Creative Suite (Photoshop",
+            "Illustrator)",
+            "typography",
+            "layout design",
+            "creativity",
+            "communication",
+            "problem-solving",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,50,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 100,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Hardware Engineer",
+        "description": "Design and develop physical components for computers and electronic devices",
+        "skills": [
+            "Circuit design",
+            "microprocessor architecture",
+            "hardware testing",
+            "debugging",
+            "problem-solving",
+            "CAD tools",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Health Educator",
+        "description": "Promote health and wellness by educating individuals and communities about healthy habits",
+        "skills": [
+            "Health communication",
+            "curriculum design",
+            "community outreach",
+            "data analysis",
+            "public speaking",
+            "critical thinking"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,50,000 - ?7,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Health Informatics Specialist",
+        "description": "Manage and analyze health data to improve patient outcomes and streamline healthcare operations",
+        "skills": [
+            "Health information systems",
+            "data analysis",
+            "electronic health records (EHR)",
+            "database management",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Health Technician",
+        "description": "Assist medical professionals by operating equipment and conducting diagnostic tests",
+        "skills": [
+            "Medical equipment operation",
+            "patient care",
+            "communication",
+            "attention to detail",
+            "teamwork",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "HR Generalist",
+        "description": "Oversee multiple human resources functions, including hiring, employee relations, and benefits",
+        "skills": [
+            "Recruitment",
+            "employee relations",
+            "HR policies",
+            "payroll management",
+            "communication",
+            "problem-solving",
+            "leadership"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Industrial Engineer",
+        "description": "Optimize processes and systems to improve efficiency, reduce waste, and increase productivity",
+        "skills": [
+            "Process optimization",
+            "Lean Six Sigma",
+            "CAD tools",
+            "production planning",
+            "project management",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Information Security Analyst",
+        "description": "Protect organizational information systems by identifying vulnerabilities and implementing security measures",
+        "skills": [
+            "Network security",
+            "firewalls",
+            "encryption",
+            "threat detection",
+            "incident response",
+            "SIEM tools",
+            "ethical hacking",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 100,
+                "growth": "5% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "IT Consultant",
+        "description": "Provide advice and strategies on IT systems to improve business efficiency and solve technical issues",
+        "skills": [
+            "IT systems",
+            "client communication",
+            "project management",
+            "cloud platforms",
+            "software integration",
+            "business analysis",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 550,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?15,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "IT Manager",
+        "description": "Oversee IT operations, manage staff, and ensure systems are secure and efficient",
+        "skills": [
+            "IT management",
+            "leadership",
+            "project management",
+            "budgeting",
+            "network security",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 700,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "IT Project Coordinator",
+        "description": "Assist in managing IT projects, coordinating between teams, tracking timelines, and ensuring project delivery",
+        "skills": [
+            "Project management",
+            "communication",
+            "scheduling",
+            "task tracking",
+            "problem-solving",
+            "multitasking",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "IT Support Specialist",
+        "description": "Provide technical support to end-users, troubleshooting hardware and software issues",
+        "skills": [
+            "Troubleshooting",
+            "hardware/software support",
+            "customer service",
+            "networking basics",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Laboratory Manager",
+        "description": "Supervise laboratory operations, manage staff, and ensure compliance with safety regulations",
+        "skills": [
+            "Lab management",
+            "leadership",
+            "safety protocols",
+            "equipment maintenance",
+            "budgeting",
+            "report writing",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Laboratory Researcher",
+        "description": "Conduct experiments and research in scientific labs to discover new information and solutions",
+        "skills": [
+            "Lab techniques",
+            "research methodologies",
+            "data analysis",
+            "scientific writing",
+            "problem-solving",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "3% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Laboratory Technician",
+        "description": "Assist researchers by preparing experiments, collecting data, and maintaining lab equipment",
+        "skills": [
+            "Lab techniques",
+            "equipment operation",
+            "sample collection",
+            "data recording",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Manufacturing Engineer",
+        "description": "Design and optimize manufacturing processes to improve efficiency and quality",
+        "skills": [
+            "Process optimization",
+            "CAD software",
+            "Lean manufacturing",
+            "project management",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Mechanical Design Engineer",
+        "description": "Design mechanical components and systems for various applications",
+        "skills": [
+            "CAD software (AutoCAD",
+            "SolidWorks)",
+            "product design",
+            "mechanical systems",
+            "problem-solving",
+            "attention to detail",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Mechanical Designer",
+        "description": "Create technical drawings and designs for mechanical products",
+        "skills": [
+            "CAD software",
+            "technical drawing",
+            "mechanical systems",
+            "creativity",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Mechanical Engineer",
+        "description": "Design, analyze, and develop mechanical systems for various industries",
+        "skills": [
+            "CAD software",
+            "mechanical systems",
+            "project management",
+            "problem-solving",
+            "teamwork",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Mechanical Project Engineer",
+        "description": "Oversee mechanical engineering projects from conception to completion, ensuring timelines and budgets are met",
+        "skills": [
+            "Project management",
+            "mechanical systems",
+            "leadership",
+            "budgeting",
+            "scheduling",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Mechanical Technician",
+        "description": "Assist engineers by building, testing, and maintaining mechanical systems",
+        "skills": [
+            "Mechanical systems",
+            "equipment maintenance",
+            "troubleshooting",
+            "problem-solving",
+            "teamwork",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Medical Lab Technician",
+        "description": "Perform diagnostic tests in medical laboratories and assist in research",
+        "skills": [
+            "Lab techniques",
+            "diagnostic equipment",
+            "attention to detail",
+            "data recording",
+            "communication",
+            "teamwork"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Medical Laboratory Technician",
+        "description": "Conduct clinical tests and prepare samples in medical laboratories",
+        "skills": [
+            "Clinical testing",
+            "lab safety",
+            "equipment maintenance",
+            "sample collection",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Microbiologist",
+        "description": "Study microorganisms and their interactions with humans, animals, plants, and the environment",
+        "skills": [
+            "Microbiological techniques",
+            "lab research",
+            "data analysis",
+            "scientific writing",
+            "problem-solving",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Mobile App Developer",
+        "description": "Design, develop, and maintain mobile applications for Android and iOS platforms",
+        "skills": [
+            "Mobile app development",
+            "Android/iOS SDK",
+            "programming languages (Swift",
+            "Java",
+            "Kotlin)",
+            "UI/UX design",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 100,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Network Administrator",
+        "description": "Manage and maintain an organization's computer networks, ensuring security and performance",
+        "skills": [
+            "Network management",
+            "routing/switching",
+            "firewalls",
+            "VPN",
+            "network security",
+            "troubleshooting",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Network Architect",
+        "description": "Design and implement complex data communication networks and infrastructure",
+        "skills": [
+            "Network design",
+            "network protocols",
+            "cloud platforms",
+            "security",
+            "communication",
+            "problem-solving",
+            "leadership"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 400,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Network Engineer",
+        "description": "Implement, maintain, and support computer networks, ensuring optimal performance",
+        "skills": [
+            "Networking",
+            "TCP/IP",
+            "DNS",
+            "routing",
+            "firewall configuration",
+            "problem-solving",
+            "communication",
+            "network troubleshooting"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Network Security Analyst",
+        "description": "Monitor and secure networks, identifying vulnerabilities and responding to threats",
+        "skills": [
+            "Network security",
+            "firewall management",
+            "intrusion detection",
+            "encryption",
+            "SIEM tools",
+            "ethical hacking",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 350,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Network Security Specialist",
+        "description": "Design and implement security measures for network infrastructure to prevent cyber threats",
+        "skills": [
+            "Network security",
+            "firewalls",
+            "encryption",
+            "ethical hacking",
+            "network analysis tools",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Network Technician",
+        "description": "Provide technical support and maintenance for networks, troubleshooting issues",
+        "skills": [
+            "Network troubleshooting",
+            "cabling",
+            "hardware/software maintenance",
+            "communication",
+            "problem-solving",
+            "networking protocols"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Occupational Therapist",
+        "description": "Help patients recover and improve their ability to perform daily activities through therapeutic practices",
+        "skills": [
+            "Patient care",
+            "rehabilitation techniques",
+            "communication",
+            "empathy",
+            "attention to detail",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Pharmaceutical Sales Rep",
+        "description": "Promote and sell pharmaceutical products to healthcare professionals",
+        "skills": [
+            "Sales",
+            "product knowledge",
+            "customer service",
+            "communication",
+            "negotiation",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Pharmaceutical Scientist",
+        "description": "Conduct research to develop and test new drugs and treatments",
+        "skills": [
+            "Drug development",
+            "lab research",
+            "clinical trials",
+            "data analysis",
+            "problem-solving",
+            "scientific writing"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 250,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Physics Educator",
+        "description": "Teach physics concepts at secondary or tertiary education levels",
+        "skills": [
+            "Physics concepts",
+            "curriculum development",
+            "communication",
+            "teaching methodologies",
+            "classroom management",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,50,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 300,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Physics Researcher",
+        "description": "Conduct research in various fields of physics to expand knowledge and develop new technologies",
+        "skills": [
+            "Research methodologies",
+            "lab experiments",
+            "data analysis",
+            "problem-solving",
+            "scientific writing",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 200,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Power Systems Engineer",
+        "description": "Design, analyze, and maintain electrical power systems and grids",
+        "skills": [
+            "Power systems",
+            "circuit analysis",
+            "grid maintenance",
+            "problem-solving",
+            "communication",
+            "CAD tools"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 150,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Process Engineer",
+        "description": "Optimize industrial processes for manufacturing, improving efficiency and reducing costs",
+        "skills": [
+            "Process optimization",
+            "Lean Six Sigma",
+            "project management",
+            "problem-solving",
+            "communication",
+            "CAD tools"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 100,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Product Design Engineer",
+        "description": "Design and develop products from concept to production, focusing on functionality and user experience",
+        "skills": [
+            "Product design",
+            "CAD software",
+            "creativity",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Production Engineer",
+        "description": "Oversee manufacturing processes, ensuring efficiency, safety, and quality",
+        "skills": [
+            "Process optimization",
+            "production planning",
+            "CAD tools",
+            "communication",
+            "problem-solving",
+            "Lean Six Sigma"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Project Engineer",
+        "description": "Manage technical and engineering aspects of projects, ensuring timely delivery and resource management",
+        "skills": [
+            "Project management",
+            "engineering design",
+            "budgeting",
+            "scheduling",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 700,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Project Manager",
+        "description": "Plan, execute, and oversee projects from initiation to completion, managing resources and timelines",
+        "skills": [
+            "Project management",
+            "leadership",
+            "communication",
+            "budgeting",
+            "scheduling",
+            "problem-solving",
+            "risk management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 800,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Quality Control Analyst",
+        "description": "Monitor production processes to ensure products meet quality standards",
+        "skills": [
+            "Quality assurance",
+            "testing procedures",
+            "statistical analysis",
+            "attention to detail",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Quality Control Engineer",
+        "description": "Ensure products and systems meet industry standards through testing and quality inspections",
+        "skills": [
+            "Quality assurance",
+            "process control",
+            "CAD software",
+            "problem-solving",
+            "Lean Six Sigma",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Quantitative Analyst",
+        "description": "Analyze financial data using statistical models to support investment decisions",
+        "skills": [
+            "Data analysis",
+            "statistical modeling",
+            "programming (Python",
+            "R)",
+            "financial markets",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Renewable Energy Engineer",
+        "description": "Design and implement systems that generate energy from renewable resources",
+        "skills": [
+            "Renewable energy systems",
+            "power generation",
+            "sustainability",
+            "project management",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Research Chemist",
+        "description": "Conduct experiments to develop new chemical compounds and improve existing products",
+        "skills": [
+            "Lab research",
+            "chemical analysis",
+            "scientific writing",
+            "problem-solving",
+            "data analysis",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Research Physicist",
+        "description": "Perform experiments and theoretical analysis to understand physical phenomena",
+        "skills": [
+            "Research methods",
+            "lab experiments",
+            "data analysis",
+            "problem-solving",
+            "scientific writing",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Research Scientist",
+        "description": "Conduct scientific research in various fields, contributing to new discoveries and innovations",
+        "skills": [
+            "Research methodologies",
+            "data analysis",
+            "scientific writing",
+            "lab management",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Robotics Engineer",
+        "description": "Design, develop, and test robotic systems for various applications",
+        "skills": [
+            "Robotics",
+            "mechanical systems",
+            "programming (C++",
+            "Python)",
+            "CAD software",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Robotics Researcher",
+        "description": "Explore new ways to improve robotic systems through research and experimentation",
+        "skills": [
+            "Robotics research",
+            "machine learning",
+            "mechanical design",
+            "programming",
+            "problem-solving",
+            "scientific writing"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Robotics Technician",
+        "description": "Assist in building, testing, and maintaining robotic systems",
+        "skills": [
+            "Robotics systems",
+            "mechanical repairs",
+            "problem-solving",
+            "programming basics",
+            "troubleshooting",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Security Analyst",
+        "description": "Monitor and protect organizational networks by identifying and mitigating cybersecurity threats",
+        "skills": [
+            "Network security",
+            "firewall management",
+            "SIEM tools",
+            "encryption",
+            "threat detection",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Software Developer",
+        "description": "Design, code, and maintain software applications for various industries",
+        "skills": [
+            "Programming languages (Java",
+            "Python",
+            "C++)",
+            "software design",
+            "debugging",
+            "problem-solving",
+            "teamwork",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 700,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Software Engineer",
+        "description": "Develop and maintain software systems, focusing on both design and operational efficiency",
+        "skills": [
+            "Software architecture",
+            "programming (Java",
+            "Python",
+            "C++)",
+            "system design",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 800,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Software Quality Analyst",
+        "description": "Ensure software meets quality standards through testing and validation processes",
+        "skills": [
+            "Software testing",
+            "quality assurance",
+            "debugging",
+            "attention to detail",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Software Tester",
+        "description": "Execute test cases to find software bugs, ensuring the system functions correctly",
+        "skills": [
+            "Software testing",
+            "test automation",
+            "scripting",
+            "problem-solving",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Structural Engineer",
+        "description": "Design and analyze structures to ensure they are safe and capable of withstanding loads",
+        "skills": [
+            "Structural analysis",
+            "CAD software",
+            "construction materials",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Survey Engineer",
+        "description": "Plan and conduct surveys to measure land, determine property boundaries, and gather geographic data",
+        "skills": [
+            "Surveying techniques",
+            "GIS software",
+            "mapping tools",
+            "problem-solving",
+            "attention to detail",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Sustainability Consultant",
+        "description": "Advise companies on how to minimize their environmental impact and improve sustainability practices",
+        "skills": [
+            "Sustainability practices",
+            "environmental impact analysis",
+            "regulatory compliance",
+            "project management",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Systems Analyst",
+        "description": "Analyze and design IT systems to meet the needs of organizations",
+        "skills": [
+            "System analysis",
+            "software design",
+            "problem-solving",
+            "programming",
+            "communication",
+            "business process optimization"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Technical Support Specialist",
+        "description": "Provide technical assistance to users by troubleshooting software and hardware issues",
+        "skills": [
+            "Technical troubleshooting",
+            "customer service",
+            "communication",
+            "problem-solving",
+            "familiarity with software/hardware systems"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Telecommunications Engineer",
+        "description": "Design and manage telecommunication systems, including networks and radio systems",
+        "skills": [
+            "Networking",
+            "telecommunications systems",
+            "RF engineering",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "78,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Theoretical Physicist",
+        "description": "Develop mathematical models to explain physical phenomena, often focusing on abstract theories",
+        "skills": [
+            "Theoretical modeling",
+            "mathematical analysis",
+            "problem-solving",
+            "research methodologies",
+            "communication",
+            "scientific writing"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 250,
+                "growth": "Medium",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Urban Planner",
+        "description": "Develop plans and programs for land use, community development, and urban expansion",
+        "skills": [
+            "Urban design",
+            "GIS software",
+            "zoning laws",
+            "project management",
+            "communication",
+            "sustainability"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Web Developer",
+        "description": "Design and build websites and web applications, ensuring functionality and user experience",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "front-end/back-end development",
+            "problem-solving",
+            "communication",
+            "web design frameworks"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Wildlife Biologist",
+        "description": "Study and manage wildlife populations and their habitats, conducting research and fieldwork",
+        "skills": [
+            "Field research",
+            "wildlife management",
+            "environmental science",
+            "data analysis",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,50,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Compliance Officer",
+        "description": "Ensure an organization adheres to legal regulations and internal policies",
+        "skills": [
+            "Legal compliance",
+            "risk management",
+            "regulatory understanding",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Control Systems Engineer",
+        "description": "Design and implement control systems to manage machines and processes in industries",
+        "skills": [
+            "Control systems",
+            "automation",
+            "programming (MATLAB",
+            "Simulink)",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Customer Support Specialist",
+        "description": "Provide customer service and support, addressing inquiries, complaints, and troubleshooting",
+        "skills": [
+            "Customer service",
+            "communication",
+            "problem-solving",
+            "time management",
+            "technical troubleshooting"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Data Engineer",
+        "description": "Design, build, and manage data pipelines and infrastructure for analytics",
+        "skills": [
+            "SQL",
+            "data warehousing",
+            "ETL processes",
+            "programming (Python",
+            "Java)",
+            "data architecture",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Embedded Systems Developer",
+        "description": "Design and develop software for embedded systems, integrating hardware and software components",
+        "skills": [
+            "Embedded programming (C",
+            "C++)",
+            "microcontrollers",
+            "real-time operating systems",
+            "problem-solving",
+            "debugging",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Financial Consultant",
+        "description": "Provide financial advice and planning services to clients, helping them manage investments",
+        "skills": [
+            "Financial analysis",
+            "investment strategies",
+            "risk management",
+            "communication",
+            "client relationship management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Firmware Developer",
+        "description": "Write and implement software code that controls hardware systems, often in embedded environments",
+        "skills": [
+            "Embedded programming (C",
+            "C++)",
+            "hardware-software integration",
+            "debugging",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Hardware Developer",
+        "description": "Design and develop hardware components for electronic devices and systems",
+        "skills": [
+            "Circuit design",
+            "hardware testing",
+            "PCB design",
+            "problem-solving",
+            "communication",
+            "CAD tools"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?12,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "HR Manager",
+        "description": "Oversee the recruitment, training, and employee relations functions in an organization",
+        "skills": [
+            "Recruitment",
+            "performance management",
+            "communication",
+            "leadership",
+            "conflict resolution",
+            "organizational development"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Industrial Designer",
+        "description": "Develop the concepts and designs for manufactured products, focusing on aesthetics and usability",
+        "skills": [
+            "Product design",
+            "CAD software",
+            "creativity",
+            "communication",
+            "problem-solving",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?10,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "IoT Engineer",
+        "description": "Design and implement Internet of Things (IoT) solutions by integrating hardware and software systems",
+        "skills": [
+            "IoT platforms",
+            "embedded systems",
+            "programming (Python",
+            "C++)",
+            "cloud computing",
+            "network protocols",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "IoT Solutions Architect",
+        "description": "Design end-to-end IoT solutions, focusing on system architecture, scalability, and security",
+        "skills": [
+            "IoT architecture",
+            "cloud platforms",
+            "network protocols",
+            "cybersecurity",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "IT Project Manager",
+        "description": "Plan, execute, and manage IT projects, ensuring they meet objectives within deadlines and budgets",
+        "skills": [
+            "Project management",
+            "leadership",
+            "Agile/Scrum",
+            "budgeting",
+            "communication",
+            "risk management",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Logistics Coordinator",
+        "description": "Oversee and coordinate the supply chain operations, ensuring timely delivery of goods and materials",
+        "skills": [
+            "Supply chain management",
+            "inventory control",
+            "ERP software",
+            "communication",
+            "problem-solving",
+            "time management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?6,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Logistics Manager",
+        "description": "Manage logistics operations, including transportation, warehousing, and distribution of goods",
+        "skills": [
+            "Logistics management",
+            "supply chain optimization",
+            "leadership",
+            "ERP software",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Marketing Analyst",
+        "description": "Analyze market trends and data to help companies make informed decisions about product marketing strategies",
+        "skills": [
+            "Data analysis",
+            "marketing strategy",
+            "market research",
+            "communication",
+            "problem-solving",
+            "digital marketing tools"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Marketing Manager",
+        "description": "Develop and execute marketing strategies to promote products and services to target audiences",
+        "skills": [
+            "Marketing strategy",
+            "leadership",
+            "communication",
+            "branding",
+            "market research",
+            "digital marketing",
+            "team management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Marketing Specialist",
+        "description": "Focus on specific marketing activities, such as social media, content creation, or brand promotion",
+        "skills": [
+            "Social media marketing",
+            "content creation",
+            "SEO",
+            "branding",
+            "communication",
+            "problem-solving",
+            "creativity"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Operations Analyst",
+        "description": "Analyze operational processes to improve efficiency and performance within organizations",
+        "skills": [
+            "Data analysis",
+            "operations research",
+            "business process optimization",
+            "problem-solving",
+            "communication",
+            "ERP software"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "78,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Operations Manager",
+        "description": "Oversee daily operations of the company, ensuring smooth workflow and productivity",
+        "skills": [
+            "Operations management",
+            "leadership",
+            "communication",
+            "supply chain management",
+            "problem-solving",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "88,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Pharmacologist",
+        "description": "Study and develop drugs, understanding their effects on biological systems",
+        "skills": [
+            "Drug development",
+            "clinical research",
+            "pharmacokinetics",
+            "problem-solving",
+            "scientific writing",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?5,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Procurement Specialist",
+        "description": "Manage the procurement process, including supplier selection, contract negotiation, and purchasing",
+        "skills": [
+            "Supplier management",
+            "contract negotiation",
+            "inventory control",
+            "communication",
+            "problem-solving",
+            "ERP systems"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 450,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Product Designer",
+        "description": "Create product concepts and prototypes, focusing on both functionality and aesthetics",
+        "skills": [
+            "Product design",
+            "CAD software",
+            "prototyping",
+            "creativity",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Product Development Engineer",
+        "description": "Design, develop, and test new products from concept to production",
+        "skills": [
+            "Product development",
+            "CAD software",
+            "prototyping",
+            "problem-solving",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Product Manager",
+        "description": "Oversee the development, launch, and life cycle of a product, ensuring it meets market needs",
+        "skills": [
+            "Product strategy",
+            "leadership",
+            "communication",
+            "market research",
+            "project management",
+            "problem-solving",
+            "team collaboration"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Production Supervisor",
+        "description": "Manage production teams, ensuring that manufacturing processes run efficiently and meet quality standards",
+        "skills": [
+            "Production management",
+            "leadership",
+            "quality control",
+            "communication",
+            "problem-solving",
+            "ERP systems"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "68,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Quality Assurance Engineer",
+        "description": "Ensure that products and systems meet quality standards through testing and validation",
+        "skills": [
+            "Quality control",
+            "testing procedures",
+            "attention to detail",
+            "problem-solving",
+            "communication",
+            "software testing tools"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Risk Analyst",
+        "description": "Assess and analyze risks in business operations or investments, recommending mitigation strategies",
+        "skills": [
+            "Risk assessment",
+            "data analysis",
+            "financial modeling",
+            "problem-solving",
+            "communication",
+            "attention to detail"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 350,
+                "growth": "Medium",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Sales Consultant",
+        "description": "Provide expert advice and solutions to clients, helping them make informed purchasing decisions",
+        "skills": [
+            "Sales strategy",
+            "customer relationship management",
+            "communication",
+            "negotiation",
+            "product knowledge",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Sales Manager",
+        "description": "Oversee sales teams, develop sales strategies, and achieve revenue targets",
+        "skills": [
+            "Leadership",
+            "sales strategy",
+            "team management",
+            "communication",
+            "negotiation",
+            "market analysis"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Signal Processing Engineer",
+        "description": "Design and develop algorithms for processing signals in various applications, such as audio and communications",
+        "skills": [
+            "Signal processing",
+            "MATLAB",
+            "algorithm development",
+            "programming (C/C++)",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?6,00,000 - ?12,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Smart City Planner",
+        "description": "Develop strategies for urban areas to enhance infrastructure and services using smart technologies",
+        "skills": [
+            "Urban planning",
+            "data analysis",
+            "smart technology implementation",
+            "communication",
+            "project management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "High",
+                "annual_salary": "?7,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Smart Home Consultant",
+        "description": "Advise clients on smart home technologies and solutions, focusing on automation and security",
+        "skills": [
+            "Smart home technologies",
+            "IoT",
+            "project management",
+            "communication",
+            "customer service"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 250,
+                "growth": "Medium",
+                "annual_salary": "?4,50,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "60,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Supply Chain Analyst",
+        "description": "Analyze supply chain processes to improve efficiency, reduce costs, and optimize operations",
+        "skills": [
+            "Data analysis",
+            "supply chain optimization",
+            "ERP software",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "Supply Chain Manager",
+        "description": "Oversee all supply chain activities, ensuring efficiency and effectiveness in procurement and distribution",
+        "skills": [
+            "Leadership",
+            "supply chain management",
+            "strategic planning",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Surveyor",
+        "description": "Measure land and property boundaries, providing essential data for construction and land development",
+        "skills": [
+            "Surveying techniques",
+            "GIS software",
+            "data analysis",
+            "communication",
+            "problem-solving"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "Medium",
+                "annual_salary": "?3,00,000 - ?8,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "2% month-on-month",
+                "annual_salary": "65,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Systems Administrator",
+        "description": "Manage and maintain computer systems and networks, ensuring operational efficiency and security",
+        "skills": [
+            "System management",
+            "networking",
+            "troubleshooting",
+            "security protocols",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?3,50,000 - ?7,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "75,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Systems Engineer",
+        "description": "Design and implement complex systems, ensuring all components work together effectively",
+        "skills": [
+            "Systems design",
+            "project management",
+            "problem-solving",
+            "communication",
+            "technical writing"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 700,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?10,00,000",
+                "state": "Pune"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "85,000 USD",
+                "state": "Canada"
+            }
+        }
+    },
+    {
+        "role": "Technical Project Manager",
+        "description": "Lead technical projects from inception to completion, ensuring they meet deadlines and budget constraints",
+        "skills": [
+            "Project management",
+            "technical expertise",
+            "leadership",
+            "communication",
+            "risk management"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 500,
+                "growth": "High",
+                "annual_salary": "?10,00,000 - ?20,00,000",
+                "state": "Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "5% month-on-month",
+                "annual_salary": "95,000 USD",
+                "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Technical Writer",
+        "description": "Create technical documentation and manuals, translating complex information into clear and concise content",
+        "skills": [
+            "Technical writing",
+            "communication",
+            "attention to detail",
+            "editing",
+            "software documentation"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 300,
+                "growth": "Medium",
+                "annual_salary": "?4,00,000 - ?8,00,000",
+                "state": "Chennai"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "3% month-on-month",
+                "annual_salary": "70,000 USD",
+                "state": "UK"
+            }
+        }
+    },
+    {
+        "role": "Telecom Manager",
+        "description": "Oversee telecommunications operations, ensuring the efficient delivery of services and technologies",
+        "skills": [
+            "Telecommunications systems",
+            "project management",
+            "leadership",
+            "problem-solving",
+            "communication"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 400,
+                "growth": "High",
+                "annual_salary": "?8,00,000 - ?15,00,000",
+                "state": "Bangalore"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4% month-on-month",
+                "annual_salary": "80,000 USD",
+                "state": "Germany"
+            }
+        }
+    },
+    {
+        "role": "UX/UI Designer",
+        "description": "Design user interfaces and experiences for websites and applications, focusing on usability and aesthetics",
+        "skills": [
+            "UX/UI design principles",
+            "prototyping tools",
+            "design software (Adobe XD",
+            "Figma)",
+            "user research",
+            "communication",
+            "creativity"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 600,
+                "growth": "High",
+                "annual_salary": "?5,00,000 - ?12,00,000",
+                "state": "Hyderabad"
+            },
+            "foreign": {
+                "job_opportunities": 0,
+                "growth": "4.50% month-on-month",
+                "annual_salary": "90,000 USD",
+                "state": "Australia"
+            }
+        }
+    }
+]
