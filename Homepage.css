@@ -76,12 +76,13 @@ body {
     font-size: 16px;
     font-weight: 600;
     text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+    transition: transform 0.4s ease, box-shadow 0.4s ease, background-color 0.4s ease;
 }
 
 .job-card:hover {
     transform: translateY(-5px); /* Move the card upwards */
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Increase the shadow for a lifted effect */
+    background-color: #f3f8ff; /* Slight color change on hover */
 }
 
 .job-head {
@@ -145,4 +146,14 @@ body {
 
 .space{
     letter-spacing: 0.5px;
+}
+
+@media (max-width: 768px) {
+    .main-content {
+        padding: 10px;
+        margin-top: 80px;
+    }
+    .chart-container {
+        width: 100%;
+    }
 }

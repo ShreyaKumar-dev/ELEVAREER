@@ -1,3 +1,5 @@
+// **************************************** Trending Job Chart ***************************************************************
+
 // Function to fetch job trends data (using static data from JobHike.json for now)
 async function fetchJobData() {
     const response = await fetch('JobHike.json');
@@ -56,3 +58,63 @@ async function loadChartData() {
 
 // Load chart data on page load
 loadChartData();
+
+
+
+// ************************************************************ Job Post Update ****************************************************
+
+// Fetch jobs from API with proper headers
+async function fetchJobs() {
+    const options = {
+        method: 'GET',
+        headers: {
+            'x-rapidapi-host': 'jobs-api19.p.rapidapi.com',
+            'x-rapidapi-key': '27075c9329msh6038bffaa255827p1a0afbjsnb85df689e8ff'
+        }
+    };
+
+    try {
+        const response = await fetch('https://jobs-api19.p.rapidapi.com/jobs?limit=10', options);
+        const data = await response.json();
+
+        if (data && Array.isArray(data)) {
+            displayJobs(data); // Pass the job data to the display function
+        } else {
+            console.log('No jobs found or incorrect response format.');
+        }
+    } catch (error) {
+        console.error('Error fetching jobs:', error);
+    }
+}
+
+// Display jobs dynamically in the DOM
+function displayJobs(jobs) {
+    const jobListingsContainer = document.getElementById('job-listings');
+    
+    // Clear existing content
+    jobListingsContainer.innerHTML = '';
+
+    // Loop through jobs and create job cards
+    jobs.forEach(job => {
+        const jobCard = `
+            <div class="job-card">
+                <div class="py-3 px-2 gap-3">
+                    <p class="text-dark job-head">${job.job_title}</p>
+                    <p class="text-secondary job-company">${job.company}</p>
+                    <p class="pb-3 d-flex align-items-center justify-content-center text-secondary job-location">
+                        <img src="./asset/location.png" alt="location" height="20px" class="me-2">${job.location}
+                    </p>
+                    <a href="${job.apply_link}" target="_blank">
+                        <button class="text-uppercase apply-job">Apply</button>
+                    </a>
+                </div>
+            </div>
+        `;
+
+        // Append job card to job listings container
+        jobListingsContainer.innerHTML += jobCard;
+    });
+}
+
+// Call the fetchJobs function when the page loads
+window.onload = fetchJobs;
