@@ -32,6 +32,12 @@ body {
     object-fit: cover;
 }
 
+.profile-img-dollar{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+
 /* Username styling */
 .user-name {
     font-size: 18px;
