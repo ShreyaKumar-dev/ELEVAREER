@@ -62,7 +62,8 @@ body {
 .cht-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    width: 100%;
+    width: fit-content;
+    gap: 80px;
 }
 
 .d .data {
@@ -109,6 +110,30 @@ body {
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 }
+/* JobDetail.css */
+
+/* Initial state: hidden */
+/* #job-title,
+#job-description,
+#job-skills,
+#job-skills li,
+#india-job-opportunities,
+#india-growth,
+#india-annual-salary,
+#india-state,
+#foreign-job-opportunities,
+#foreign-growth,
+#foreign-annual-salary,
+#foreign-state {
+    /* opacity: 0;
+    transition: opacity 0.3s ease;
+} */
+
+/* Visible state */
+.visible {
+    opacity: 1;
+}
+
 
 /* Optional: Add transitions for smoother updates */
 #job-title,
@@ -123,8 +148,8 @@ body {
 #foreign-annual-salary,
 #foreign-state {
     transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-    opacity: 0;
-    transform: translateY(10px);
+    /* opacity: 0; */
+    transform: translateY(5px);
 }
 
 #job-title.visible,

@@ -15,7 +15,7 @@
             "india": {
                 "job_opportunities": 300,
                 "growth": "High",
-                "annual_salary": "8,00,000 - ?15,00,000",
+                "annual_salary": "8,00,000 - 15,00,000",
                 "state": "Bangalore"
             },
             "foreign": {
@@ -353,6 +353,32 @@
                 "growth": "4% month-on-month",
                 "annual_salary": "80,000 USD",
                 "state": "USA"
+            }
+        }
+    },
+    {
+        "role": "Blockchain Developer",
+        "description": "Design, implement, and support distributed blockchain networks and solutions",
+        "skills": [
+            "Blockchain protocols",
+            "cryptography",
+            "smart contracts (e.g., Ethereum)",
+            "programming language (Solidity, Go, Java)",
+            "security",
+            "distributed systems"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 15000,
+                "growth": "High",
+                "annual_salary": "8,00,000 - 18,00,000",
+                "state": "Bengaluru, Hyderabad, Pune"
+            },
+            "foreign": {
+                "job_opportunities": 30000,
+                "growth": "12% month-on-month",
+                "annual_salary": "100,000 - 140,000 USD",
+                "state": "US, Singapore, Switzerland"
             }
         }
     },
@@ -909,7 +935,7 @@
             "india": {
                 "job_opportunities": 450,
                 "growth": "High",
-                "annual_salary": "?7,00,000 - ?15,00,000",
+                "annual_salary": "7,00,000 - 15,00,000",
                 "state": "Mumbai"
             },
             "foreign": {
@@ -1101,7 +1127,7 @@
             "india": {
                 "job_opportunities": 600,
                 "growth": "High",
-                "annual_salary": "?6,00,000 - ?12,00,000",
+                "annual_salary": "6,00,000 - 12,00,000",
                 "state": "Mumbai"
             },
             "foreign": {
@@ -1211,7 +1237,7 @@
             "india": {
                 "job_opportunities": 400,
                 "growth": "High",
-                "annual_salary": "?4,00,000 - ?8,00,000",
+                "annual_salary": "4,00,000 - 8,00,000",
                 "state": "Chennai"
             },
             "foreign": {
@@ -1240,7 +1266,7 @@
             "india": {
                 "job_opportunities": 500,
                 "growth": "High",
-                "annual_salary": "?8,00,000 - ?15,00,000",
+                "annual_salary": "8,00,000 - 15,00,000",
                 "state": "Pune"
             },
             "foreign": {
@@ -1299,7 +1325,7 @@
             "india": {
                 "job_opportunities": 500,
                 "growth": "High",
-                "annual_salary": "?7,00,000 - ?15,00,000",
+                "annual_salary": "7,00,000 - 15,00,000",
                 "state": "Bangalore"
             },
             "foreign": {
@@ -1627,7 +1653,7 @@
             "india": {
                 "job_opportunities": 700,
                 "growth": "High",
-                "annual_salary": "?6,00,000 - ?12,00,000",
+                "annual_salary": "6,00,000 - 12,00,000",
                 "state": "Bangalore"
             },
             "foreign": {
@@ -2090,6 +2116,34 @@
                 "growth": "2% month-on-month",
                 "annual_salary": "60,000 USD",
                 "state": "Australia"
+            }
+        }
+    },
+    {
+        "role": "Machine Learning Engineer",
+        "description": "Build and deploy machine learning models to solve real-world problems",
+        "skills": [
+            "Python/R",
+            "TensorFlow",
+            "PyTorch",
+            "data analysis",
+            "deep learning",
+            "natural language processing (NLP)",
+            "statistics",
+            "mathematical modeling"
+        ],
+        "locations": {
+            "india": {
+                "job_opportunities": 20000,
+                "growth": "Very High",
+                "annual_salary": "7,00,000 - 15,00,000",
+                "state": "Bengaluru, Delhi, Mumbai"
+            },
+            "foreign": {
+                "job_opportunities": 25000,
+                "growth": "15% month-on-month",
+                "annual_salary": "95,000 - 130,000 USD",
+                "state": "US, UK, Germany"
             }
         }
     },
@@ -3141,7 +3195,7 @@
             "india": {
                 "job_opportunities": 800,
                 "growth": "High",
-                "annual_salary": "?6,00,000 - ?12,00,000",
+                "annual_salary": "6,00,000 - 12,00,000",
                 "state": "Mumbai"
             },
             "foreign": {
@@ -3557,7 +3611,7 @@
             "india": {
                 "job_opportunities": 500,
                 "growth": "High",
-                "annual_salary": "?6,00,000 - ?12,00,000",
+                "annual_salary": "6,00,000 - 12,00,000",
                 "state": "Chennai"
             },
             "foreign": {
