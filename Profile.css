@@ -48,15 +48,12 @@ body {
 .profile-box {
     width: 100%;
     max-width: 900px;
-    padding: 30px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-top: 100px;
 }
 
-.profile-header .profile-pic {
-    background-color: #dedede;
+.profile-header {
+    background-color: #ade7f4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .profile-img {
@@ -71,6 +68,18 @@ body {
 
 .badge {
     font-size: 14px;
+    font-weight: 400;
+}
+
+.bg-style{
+    background-color: #005b8f;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.areas-of-interest{
+    margin-top: 50px;
+    background: #95b0b7;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .areas-of-interest h3 {
