@@ -52,16 +52,17 @@ body {
 .job-detail-mainbox {
     background-color: #f5f7ff;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 100px;
+    grid-template-columns: 400px 1fr;
+    gap: 90px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 50px;
 }
 
-.chart-container {
+.cht-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
 }
 
 .d .data {
