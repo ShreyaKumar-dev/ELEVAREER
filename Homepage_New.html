@@ -42,6 +42,7 @@
 
     <!-- Complete page -->
     <main class="container Hero mb-5">
+        <!-- Heading -->
         <div class="mt-5 mb-5 p-0"> <!--bg-body-secondary-->
             <h1 class="display-5 text-center">Your potential is limitless<br> Keep learning, keep growing, and the future is yours to shape</h1> <!--fst-italic-->
             <!-- <div class="col-lg-6 px-0">
@@ -88,10 +89,21 @@
             </div>
         </div> -->
 
+        <!-- Body -->
         <div class="row g-5 mt-4">
             <div class="col-md-8">
-                <h3 class="pb-4 mb-4 fst-italic border-bottom">From the Firehose </h3>
-                <article class="blog-post">
+                <h3 class="pb-4 mb-4 border-bottom">Hottest Job in the market <span>🤑</span></h3>
+                <div class="container chart-container">
+                    <canvas id="jobChart"></canvas>
+                </div>
+                <!-- Job Post Section -->
+                <div class="mt-5 pt-4">
+                    <h3 class="pb-4 mb-4 border-bottom">Current Job Posting</h3>
+                    <div class="container mt-3 mb-5 pb-5 job-listings" id="job-listings">
+                        <!-- Job cards will be dynamically inserted here-->
+                    </div>
+                </div>
+                <!-- <article class="blog-post">
                     <h2 class="display-5 link-body-emphasis mb-1">Sample blog post</h2>
                     <p class="blog-post-meta">January 1, 2021 by <a href="#">Mark</a></p>
                     <p>This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, lists, tables, images, code, and more are all supported as expected.</p>
@@ -142,9 +154,9 @@
                     <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
                     <pre><code>Example code block</code></pre>
                     <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-                </article>
+                </article> -->
 
-                <article class="blog-post">
+                <!-- <article class="blog-post">
                     <h2 class="display-5 link-body-emphasis mb-1">Another blog post</h2>
                     <p class="blog-post-meta">December 23, 2020 by <a href="#">Jacob</a></p>
                     <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
@@ -201,19 +213,19 @@
                         <li>Third list item to close it out</li>
                     </ul>
                     <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-                </article>
+                </article> -->
 
-                <nav class="blog-pagination" aria-label="Pagination">
+                <!-- <nav class="blog-pagination" aria-label="Pagination">
                     <a class="btn btn-outline-primary rounded-pill" href="#">Older</a>
                     <a class="btn btn-outline-secondary rounded-pill disabled" aria-disabled="true">Newer</a>
-                </nav>
+                </nav> -->
             </div>
 
             <div class="col-md-4">
                 <div class="position-sticky side">
-                    <div class="p-5 mb-3 bg-white rounded-1">
-                        <h4 class="mb-3">About</h4>
-                        <p class="mb-0 mt-3 abt">ELEVAREER helps users discover 
+                    <div class="p-4 mb-3 bg-white rounded-1">
+                        <h4 class="mb-3 pb-2 border-bottom">About</h4>
+                        <p class="mb-0 mt-3 pb-3 abt">ELEVAREER helps users discover 
                             personalized job opportunities and career guidance 
                             based on their degree and fields of interest. By 
                             analyzing your preferences and skills, we provide 
@@ -223,7 +235,7 @@
                             options or planning future studies, we've got you covered.
                         </p>
                     </div>
-                    <div>
+                    <div class="mt-3 p-4 bg-white rounded-1">
                         <h4 class="fst-italic">Recent posts</h4>
                         <ul class="list-unstyled">
                             <li>
@@ -255,7 +267,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="p-4">
+                    <!-- <div class="p-4">
                         <h4 class="fst-italic">Archives</h4>
                         <ol class="list-unstyled mb-0">
                             <li><a href="#">March 2021</a></li>
@@ -271,15 +283,15 @@
                             <li><a href="#">May 2020</a></li>
                             <li><a href="#">April 2020</a></li>
                         </ol>
-                    </div>
-                    <div class="p-4">
+                    </div> -->
+                    <!-- <div class="p-4">
                         <h4 class="fst-italic">Elsewhere</h4>
                         <ol class="list-unstyled">
                             <li><a href="#">GitHub</a></li>
                             <li><a href="#">Twitter</a></li>
                             <li><a href="#">Facebook</a></li>
                         </ol>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -303,7 +315,10 @@
         </footer>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="Homepage.js"></script>
+    <script src="JobDetail.js"></script>
     <script src="Homepage_New.js"></script>
 </body>
 </html>
