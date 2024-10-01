@@ -23,3 +23,12 @@ html, body {
 .Hero{
     margin-top: 100px;
 }
+
+.side{
+    top: 2rem;
+}
+
+.abt{
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
