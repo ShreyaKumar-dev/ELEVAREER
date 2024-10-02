@@ -32,3 +32,8 @@ html, body {
     letter-spacing: 0.5px;
     word-spacing: 1px;
 }
+
+/* Add to your Homepage.css or Homepage_New.css
+.job-detail {
+    display: none;
+} */
