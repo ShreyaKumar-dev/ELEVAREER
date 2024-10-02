@@ -37,3 +37,7 @@ html, body {
 .job-detail {
     display: none;
 } */
+
+.modal-content{
+    background-color: #f5f7ff;
+}

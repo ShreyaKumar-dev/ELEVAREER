@@ -51,18 +51,18 @@ body {
     z-index: 1000; /* Ensure navbar stays above content */
 }
 
-.job-detail {
+/* .job-detail {
     margin-top: 100px;
-}
+} */
 
 .job-detail-mainbox {
-    background-color: #f5f7ff;
     display: grid;
-    grid-template-columns: 400px 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 90px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 50px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    /* padding: 50px; */
+    overflow-x: hidden;
 }
 
 .cht-container {

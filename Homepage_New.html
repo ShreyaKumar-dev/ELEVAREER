@@ -93,10 +93,12 @@
         <!-- Body -->
         <div class="row g-5 mt-4">
             <div class="col-md-8">
+                <!-- Trending Job Chart -->
                 <h3 class="pb-4 mb-4 border-bottom">Hottest Job in the market <span>🤑</span></h3>
                 <div class="container chart-container">
                     <canvas id="jobChart"></canvas>
                 </div>
+
                 <!-- Job Details Modal -->
                 <div class="modal fade" id="jobDetailsModal" tabindex="-1" aria-labelledby="jobDetailsModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
@@ -107,8 +109,8 @@
                             </div>
                             <div class="modal-body">
                                 <!-- Job Detail box -->
-                                <div class="container job-detail my-5">
-                                    <div class="job-detail-mainbox mt-5"> <!-- 2 main grid -->
+                                <div class="job-detail p-4">
+                                    <div class="job-detail-mainbox"> <!-- 2 main grid -->
                                         <div class="job-detail-txt">
                                             <h4 id="modal-job-title" class="text-capitalize mb-4">Select a job role from the chart</h4>
                                             <p id="modal-job-description">Click on a job role in the chart to see the details here.</p>
